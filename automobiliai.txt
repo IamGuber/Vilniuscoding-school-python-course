@@ -1,0 +1,6 @@
+Mercedes-Benz;2020;3.2;5
+Audi;2018;2.7;5
+BMW;2022;3.0;4
+Mercedes-Benz turi didziausia variklio turi.
+Audi turi maziausia variklio turi.
+Visu auto gamybos metu vidurkis yra 2020m. 

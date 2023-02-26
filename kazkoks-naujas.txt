@@ -1,0 +1,4 @@
+viena;karta
+kita;karta
+visus;kartus
+paskutini;karta

@@ -1,0 +1,5 @@
+Ilgiausiai mokasi studentas'e Simona Simonaite
+Vidurkis studento'es Petras Petrauskas yra 5.0
+Vidurkis studento'es Jonas Jonauskas yra 8.33
+Vidurkis studento'es Simona Simonaite yra 9.67
+Geriausiai mokasi Simonaite
