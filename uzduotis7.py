@@ -1,0 +1,8 @@
+# Išveskite:
+# *
+# **
+# ***
+
+print("*")
+print("**")
+print("***")
